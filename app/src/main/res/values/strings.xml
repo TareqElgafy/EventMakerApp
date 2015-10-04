@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Event Maker</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="fname">Event Name</string>
+    <string name="title_activity_list">listActivity</string>
+    <string name="title_activity_edit">Edit</string>
+    <string name="dname">Description</string>
+    <string name="daname">Date</string>
+    <string name="tname">Time</string>
+    <string name="lname">Location</string>
+    <string name="title_activity_event_details">EventDetails</string>
+
+</resources>
